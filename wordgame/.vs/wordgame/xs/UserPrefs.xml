@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DE9D58EC-F554-4233-B10C-3883D9579F4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../wordgame.cpp">
+    <Files>
+      <File FileName="../wordgame.cpp" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="wordgame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.wordgame FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="general" Name="general">
+      <Items>
+        <StartupItem ItemId="{DE9D58EC-F554-4233-B10C-3883D9579F4C}" ItemName="wordgame" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

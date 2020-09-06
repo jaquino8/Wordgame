@@ -1,0 +1,7 @@
+This is a repo for a wordgame created using C++ and SFML libraries.
+
+Uses a text file containing a large amount of words and creates a randomly ordered array of them.
+Words get randomly placed outside screen and move right untill word appears off screen and dissapears off screen
+User types any word seen on the screen. Correct input increments correct count, errors increment error count.
+User has one minute to type as many words as they can. At the end of one minute an end screen displays
+total correct words and errors.
